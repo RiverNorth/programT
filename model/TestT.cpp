@@ -13,7 +13,7 @@ class A
 public:
 	A()
 	{
-		cout<<"a.printf"<<endl;
+		cout<<"a.printf"<<endl;aa
 	};
 
 };
