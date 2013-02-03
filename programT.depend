@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1359648198 source:/home/rmiao/workspace/programT/src/NIOCli.c
+	"unp.h"
+	"general.h"
+
+1359821095 /home/rmiao/workspace/programT/hdr/unp.h
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<time.h>
+	<sys/time.h>
+	<time.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<errno.h>
+	<fcntl.h>
+	<netdb.h>
+	<signal.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/stat.h>
+	<sys/uio.h>
+	<unistd.h>
+	<sys/wait.h>
+	<sys/un.h>
+	<sys/select.h>
+	<sys/param.h>
+	<sys/sysctl.h>
+	<poll.h>
+	<sys/event.h>
+	<strings.h>
+	<sys/ioctl.h>
+	<sys/filio.h>
+	<sys/sockio.h>
+	<pthread.h>
+	<net/if_dl.h>
+	<netinet/sctp.h>
+
+1359906268 source:/home/rmiao/workspace/programT/test/listtest.cpp
+	"inlist.h"
+	"stdlib.h"
+	"stdio.h"
+
+1359906256 /home/rmiao/workspace/programT/hdr/inlist.h
+	"stdio.h"
+	"stdlib.h"
+
