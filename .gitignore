@@ -1,2 +1,4 @@
 *.[ao]
 *.out
+*.class
+*.exe
